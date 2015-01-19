@@ -1,1 +1,1 @@
-cosas = "Texto"
+cosas = "Text"
