@@ -1,3 +1,3 @@
 (0..9).each do |num|
-  print "#{num} "
+  print "#{num/0} "
 end
