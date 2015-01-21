@@ -1,3 +1,3 @@
 loop do
-  puts "otro archivo ramaprueba"
+  puts "otro archivo"
 end
