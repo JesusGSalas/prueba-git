@@ -1,3 +1,3 @@
 puts "Soy un ratón"
-patas = 5
+patas = 4
 colas = 1
