@@ -1,1 +1,3 @@
-puts "otro archivo"
+loop do
+  puts "otro archivo"
+end
