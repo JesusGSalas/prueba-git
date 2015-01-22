@@ -3,4 +3,4 @@
   puts "otro archivo ... otra rama"
   num = gets.to_s
 end
-puts "se terminó el ciclo rama"
+puts "se terminó el ciclo"
