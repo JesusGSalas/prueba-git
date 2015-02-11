@@ -1,1 +1,0 @@
-puts "Soy un ratón"
